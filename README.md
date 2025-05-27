@@ -1,4 +1,4 @@
-![Checkpoint](images/Checkpoint.png)
+![Checkpoint](Dungeon-Master/Checkpoint.png)
 ![Death](images/Death.png)
 ![Fire Attack](images/FireAttack.png)
 ![Fire Enemy](images/FireEnemy.png)
