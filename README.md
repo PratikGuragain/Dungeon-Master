@@ -1,1 +1,11 @@
-![Checkpoint](images/checkpoint.png)
+![Death](images/Death.png)
+![Fire Attack](images/Fire Attack.png)
+![Fire Enemy](images/Fire Enemy.png)
+![Fire Trap Active](images/Fire Trap Active.png)
+![Fire Trap](images/Fire Trap.png)
+![First Spawn](images/First Spawn.png)
+![Main Menu](images/Main Menu.png)
+![Meele Enemy](images/Meele Enemy.png)
+![Moving_Saw](images/Moving_Saw.png)
+![SpikeBox_Trap](images/SpikeBox_Trap.png)
+
