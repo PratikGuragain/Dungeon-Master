@@ -1,4 +1,3 @@
-![Checkpoint](Checkpoint.png)
 ![Death](Death.png)
 ![Fire Attack](FireAttack.png)
 ![Fire Enemy](FireEnemy.png)
