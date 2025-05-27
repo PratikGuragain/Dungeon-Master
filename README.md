@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <th style="width:500px">Image</th>
-    <th style="width:300px">Description</th>
+    <th style="width:1000px">Image</th>
+    <th style="width:1000px">Description</th>
   </tr>
   <tr>
     <td><img src="images/Death.png" width="150"/></td>
