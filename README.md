@@ -1,6 +1,8 @@
-![Death](images/Death.png)
-![Fire Attack](images/FireAttack.png) 
-![Fire Enemy](images/FireEnemy.png)  
+<p float="left">
+  <img src="images/Death.png" width="200"/>
+  <img src="images/FireAttack.png" width="200"/>
+  <img src="images/FireEnemy.png" width="200"/>
+</p>
 ![Fire Trap Active](images/FireTrapActive.png) 
 ![Fire Trap](images/FireTrap.png)  
 ![First Spawn](images/FirstSpawn.png) 
