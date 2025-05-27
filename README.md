@@ -1,6 +1,6 @@
 | Image | Description |
 |-------|-------------|
-| ![Death](images/Death.png) | **Death** |
+| ![Death](images/Death.png) width="150"| **Death** |
 | ![Fire Attack](images/FireAttack.png) | **Fire Attack** |
 | ![Fire Enemy](images/FireEnemy.png) | **Fire Enemy** |
 | ![Fire Trap Active](images/FireTrapActive.png) | **Fire Trap Active** |
