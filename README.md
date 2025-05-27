@@ -1,1 +1,1 @@
-
+![Checkpoint](images/checkpoint.png)
