@@ -1,13 +1,14 @@
 | Image | Description |
 |-------|-------------|
-| ![Death](images/Death.png) width="150"| **Death** |
-| ![Fire Attack](images/FireAttack.png) | **Fire Attack** |
-| ![Fire Enemy](images/FireEnemy.png) | **Fire Enemy** |
-| ![Fire Trap Active](images/FireTrapActive.png) | **Fire Trap Active** |
-| ![Fire Trap](images/FireTrap.png) | **Fire Trap** |
-| ![First Spawn](images/FirstSpawn.png) | **First Spawn** |
-| ![Main Menu](images/MainMenu.png) | **Main Menu** |
-| ![Meele Enemy](images/MeeleEnemy.png) | **Meele Enemy** |
-| ![Moving Saw](images/Moving_Saw.png) | **Moving Saw** |
-| ![SpikeBox Trap](images/SpikeBox_Trap.png) | **SpikeBox Trap** |
+| <img src="images/Death.png" width="150"/> | **Death** |
+| <img src="images/FireAttack.png" width="150"/> | **Fire Attack** |
+| <img src="images/FireEnemy.png" width="150"/> | **Fire Enemy** |
+| <img src="images/FireTrapActive.png" width="150"/> | **Fire Trap Active** |
+| <img src="images/FireTrap.png" width="150"/> | **Fire Trap** |
+| <img src="images/FirstSpawn.png" width="150"/> | **First Spawn** |
+| <img src="images/MainMenu.png" width="150"/> | **Main Menu** |
+| <img src="images/MeeleEnemy.png" width="150"/> | **Meele Enemy** |
+| <img src="images/Moving_Saw.png" width="150"/> | **Moving Saw** |
+| <img src="images/SpikeBox_Trap.png" width="150"/> | **SpikeBox Trap** |
+
 
