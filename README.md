@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th style="width:160px">Image</th>
+    <th style="width:500px">Image</th>
     <th style="width:300px">Description</th>
   </tr>
   <tr>
