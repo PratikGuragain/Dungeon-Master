@@ -1,14 +1,48 @@
-| Image | Description |
-|-------|-------------|
-| <img src="images/Death.png" width="500"/> | **Death** |
-| <img src="images/FireAttack.png" width="500"/> | **Fire Attack** |
-| <img src="images/FireEnemy.png" width="500"/> | **Fire Enemy** |
-| <img src="images/FireTrapActive.png" width="500"/> | **Fire Trap Active** |
-| <img src="images/FireTrap.png" width="500"/> | **Fire Trap** |
-| <img src="images/FirstSpawn.png" width="500"/> | **First Spawn** |
-| <img src="images/MainMenu.png" width="500"/> | **Main Menu** |
-| <img src="images/MeeleEnemy.png" width="500"/> | **Meele Enemy** |
-| <img src="images/Moving_Saw.png" width="500"/> | **Moving Saw** |
-| <img src="images/SpikeBox_Trap.png" width="500"/> | **SpikeBox Trap** |
+<table>
+  <tr>
+    <th style="width:160px">Image</th>
+    <th style="width:300px">Description</th>
+  </tr>
+  <tr>
+    <td><img src="images/Death.png" width="150"/></td>
+    <td><strong>Death</strong></td>
+  </tr>
+  <tr>
+    <td><img src="images/FireAttack.png" width="150"/></td>
+    <td><strong>Fire Attack</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/FireEnemy.png" width="150"/></td>
+    <td><strong>Fire Enemy</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/FireTrapActive.png" width="150"/></td>
+    <td><strong>Fire Trap Active</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/FireTrap.png" width="150"/></td>
+    <td><strong>Fire Trap</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/FirstSpawn.png" width="150"/></td>
+    <td><strong>First Spawn</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/MainMenu.png" width="150"/></td>
+    <td><strong>Main Menu</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/MeeleEnemy.png" width="150"/></td>
+    <td><strong>Meele Enemy</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/Moving_Saw.png" width="150"/></td>
+    <td><strong>Moving Saw</strong></td>
+  </tr>
+    <tr>
+    <td><img src="images/SpikeBox_Trap.png" width="150"/></td>
+    <td><strong>SpikeBox Trap</strong></td>
+  </tr>
+</table>
 
 
